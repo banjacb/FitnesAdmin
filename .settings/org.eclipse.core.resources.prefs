@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/main/java/net/etf/beans/UserBean.java=UTF-8
+encoding//src/main/java/net/etf/contoller/Controller.java=UTF-8
+encoding//src/main/java/net/etf/dao/AttributeDAO.java=UTF-8
+encoding//src/main/java/net/etf/dao/CategoryDAO.java=UTF-8
+encoding//src/main/java/net/etf/dao/UserDAO.java=UTF-8
+encoding//src/main/webapp/WEB-INF/pages/insertUser.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/pages/updateAttribute.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/pages/updateUser.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/pages/users.jsp=UTF-8
+encoding/<project>=windows-1252
