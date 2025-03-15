@@ -8,4 +8,5 @@ Izmjene korisnika ![image](https://github.com/user-attachments/assets/44d87949-6
 
 Prikaz kategorija sa opcijama za dodavanje, brisanje i izmjenu atributa ![image](https://github.com/user-attachments/assets/344e26dc-45ae-4cb9-9fec-8b44dcac6f75)
 
-Pracenje statistike prijava i odajava korisnika ![Uploading image.png…]()
+Pracenje statistike prijava i odajava korisnika ![image](https://github.com/user-attachments/assets/5551e5b8-3b75-436d-ba35-6fe12467eef7)
+
